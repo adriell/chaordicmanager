@@ -1,5 +1,4 @@
 #!/bin/bash
-
 CONTROL_REPO="https://gitlab.com/chaordic/puppet-control.git"
 # Install PGP key and add HTTPS support for APT
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 561F9B9CAC40B2F7
